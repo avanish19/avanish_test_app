@@ -1,0 +1,23 @@
+{
+  "name": "facebook_test_app",
+  "version": "1.0.0",
+  "description": "facebook passport test api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avanish Mishra",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "cookie-session": "^2.0.0-beta.3",
+    "express": "^4.16.3",
+    "express-flash": "0.0.2",
+    "express-session": "^1.15.6",
+    "express-validator": "^5.2.0",
+    "mongoose": "^5.2.2",
+    "passport": "^0.4.0",
+    "passport-facebook": "^2.1.1"
+  }
+}
